@@ -29,6 +29,8 @@ of text, like this:
 ![A screenshot of a line of code searching for "corgi in the snow" followed by a grid of animal photos.](readme_images/screenshot.png)
 
 ## guide for dev
+- Vector Search With MongoDB and OpenAI: https://www.mongodb.com/developer/products/atlas/quickstart-vectorsearch-mongodb-python/
+![image description](./Big_Picture.png)
 ```bash
 
 touch .env
